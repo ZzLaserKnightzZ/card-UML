@@ -1,9 +1,0 @@
-emi
-https://www.youtube.com/watch?v=FwxtnMfrynM
-https://www.youtube.com/watch?v=C2UDpUAgoSQ
-https://www.youtube.com/watch?v=q7z0ht7eCig
-inverter
-https://www.youtube.com/watch?v=WKjIPanQ0ng&list=RDCMUCx4H0U_hABQbdnI5Tt2UObQ&index=15
-opamp
-https://www.youtube.com/watch?v=7FYHt5XviKc
-/dice
